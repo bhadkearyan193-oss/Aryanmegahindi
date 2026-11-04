@@ -1,6 +1,8 @@
 {
-  "name": "Aryan Mega Repository",
-  "description": "Collection of authorized media providers",
+  "name": "Aryanmegahindi",
+  "description": "Aryan Mega CloudStream Repository",
   "manifestVersion": 1,
-  "pluginLists": []
+  "pluginLists": [
+    "https://raw.githubusercontent.com/recloudstream/extensions/builds/plugins.json"
+  ]
 }
